@@ -1,1 +1,1 @@
-# JumpCloud-Custom_Scripts
+# JumpCloud Custom Scripts
